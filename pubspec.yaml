@@ -1,0 +1,19 @@
+name: vecteezy_downloader
+description: Dart library that allows you to download images from Vecteezy with specified quality. It provides functionality to fetch image URLs and download URLs from Vecteezy pages.
+version: 0.0.1
+repository: https://github.com/thitlwincoder/vecteezy_downloader
+
+environment:
+  sdk: ^3.5.3
+
+funding:
+  - https://paypal.me/thitlwin312
+  - https://ko-fi.com/thitlwincoder
+
+dependencies:
+  html: ^0.15.4
+  requests: ^4.7.0
+
+dev_dependencies:
+  lints: ^4.0.0
+  very_good_analysis: ^6.0.0
